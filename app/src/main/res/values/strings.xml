@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">El Dado</string>
+    <string name="button_name">Lanzar El Dado</string>
+    <string name="player1">Jugador 1</string>
+    <string name="player2">Jugador 2</string>
+    <string name="img_desc">Lado del Dado</string>
+    <string name="img_desc2">Reload</string>
+    <string name="img_desc3">Winner</string>
+    <string name="result">0</string>
+</resources>
